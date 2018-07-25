@@ -1,4 +1,4 @@
-# <center>Vue多文件应用模版</center>
+<h1 align=center>Vue多文件应用模版</h1>
 
 ## 说明:
 * 改写vue webpack单文件应用模版配置而来
